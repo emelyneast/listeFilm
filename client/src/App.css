@@ -1,5 +1,7 @@
 
-
+body{
+  background-color: #282c34;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -13,7 +15,6 @@
 }
 
 .App {
-  background-color: #282c34;
   height: 100vh;
   display: flex;
   flex-direction: column;
