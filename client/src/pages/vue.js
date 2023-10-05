@@ -6,16 +6,7 @@ import '../App.css';
 function Vue() {
   return (
     <div >
-        <nav>
-            <ul>
-                <li>
-                    <Link to="/">Accueil</Link>
-                </li>
-                <li>
-                    <Link to="/avoir">Film/serie a voir</Link>
-                </li>
-            </ul>
-        </nav>
+        <h3>Vue</h3>
     </div>
   );
 }

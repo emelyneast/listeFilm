@@ -7,19 +7,7 @@ import '../App.css';
 function Home() {
   return (
     <div>
-            <nav>
-                <ul>
-                    <li>
-                    <Link to="/">Accueil</Link>
-                    </li>
-                    <li>
-                    <Link to="/vue">Film/serie vue</Link>
-                    </li>
-                    <li>
-                    <Link to="/avoir">Film/serie a voir</Link>
-                    </li>
-                </ul>
-            </nav>
+          <h3>Accueil</h3>
     </div>
   );
 }

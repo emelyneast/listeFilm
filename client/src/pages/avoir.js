@@ -7,16 +7,7 @@ import '../App.css';
 function Avoir() {
   return (
     <div>
-        <nav>
-            <ul>
-                <li>
-                    <Link to="/">Accueil</Link>
-                </li>
-                <li>
-                    <Link to="/vue">Film/serie vue</Link>
-                </li>
-            </ul>
-        </nav>
+        <h3>A voir</h3>
     </div>
   );
 }
